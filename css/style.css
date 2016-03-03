@@ -1,0 +1,38 @@
+.home{
+	background-image: url(../img/library.jpg);
+	background-repeat:no-repeat;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+	background-position:center;
+	position: relative;
+}
+
+
+.main-section {
+  position: relative;
+  width: auto;
+  background-size: cover;
+}
+
+.logo-font {
+  font-family: 'And Black', 'Helvetica', 'Arial', sans-serif;
+  line-height: 1;
+  color: #FFFFFF;
+  font-weight: 300;
+}
+
+.logo-slogan {
+  font-size: 60px;
+  padding-top: 160px;
+}
+
+.logo-sub-slogan {
+  font-size: 21px;
+  padding-top: 24px;
+}
+
+.input-field{
+	color: #FFF;
+}
